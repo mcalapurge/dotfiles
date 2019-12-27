@@ -12,8 +12,8 @@ code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension vangware.dark-plus-material
 code --install-extension vscodevim.vim
 code --install-extension webfreak.debug
-code --install-extention bmewburn.vscode-intelephense-client
-code --install-extention nickdodd79.gulptasks
-code --install-extention bbenoist.vagrant
-code --install-extention PKief.material-icon-theme
-code --install-extention hdg.live-html-previewer
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension nickdodd79.gulptasks
+code --install-extension bbenoist.vagrant
+code --install-extension PKief.material-icon-theme
+code --install-extension hdg.live-html-previewer
